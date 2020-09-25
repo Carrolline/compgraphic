@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27f9351e-08d4-48aa-9798-ea1de08ac281" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hCMXIr03gSMcZ7ZJKEkronPLhc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.compgraph_lab1_2">
+    <configuration name="compgraph_lab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mat_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compgraph_lab1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compgraph_lab1_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mat_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compgraph_lab1_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compgraph_lab1_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mat_proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/compgraph_lab1_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.compgraph_lab1_2" />
+        <item itemvalue="Python.compgraph_lab1_3" />
+        <item itemvalue="Python.compgraph_lab1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f9351e-08d4-48aa-9798-ea1de08ac281" name="Default Changelist" comment="" />
+      <created>1599510659595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599510659595</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="91" key="#Inspections" timestamp="1600458453939">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="251" y="91" key="#Inspections/0.23.1440.797@0.23.1440.797" timestamp="1600458453939" />
+    <state width="1070" height="135" key="GridCell.Tab.0.bottom" timestamp="1600979153933">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1070" height="135" key="GridCell.Tab.0.bottom/0.23.1440.790@0.23.1440.790" timestamp="1600950565912" />
+    <state width="1070" height="135" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1600952097457" />
+    <state width="1070" height="135" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600952115627" />
+    <state width="1151" height="98" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1600777138016" />
+    <state width="1070" height="135" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1600979142813" />
+    <state width="1070" height="135" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600979153933" />
+    <state width="1070" height="136" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1600891383950" />
+    <state width="1070" height="136" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1600890647591" />
+    <state width="1070" height="136" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1600892594526" />
+    <state width="1070" height="136" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1600891744809" />
+    <state width="1070" height="135" key="GridCell.Tab.0.center" timestamp="1600979153931">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1070" height="135" key="GridCell.Tab.0.center/0.23.1440.790@0.23.1440.790" timestamp="1600950565910" />
+    <state width="1070" height="135" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1600952097456" />
+    <state width="1070" height="135" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600952115626" />
+    <state width="1151" height="98" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1600777138015" />
+    <state width="1070" height="135" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1600979142812" />
+    <state width="1070" height="135" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1600979153931" />
+    <state width="1070" height="136" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1600891383948" />
+    <state width="1070" height="136" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1600890647590" />
+    <state width="1070" height="136" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1600892594525" />
+    <state width="1070" height="136" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1600891744808" />
+    <state width="1070" height="135" key="GridCell.Tab.0.left" timestamp="1600979153931">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1070" height="135" key="GridCell.Tab.0.left/0.23.1440.790@0.23.1440.790" timestamp="1600950565909" />
+    <state width="1070" height="135" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1600952097455" />
+    <state width="1070" height="135" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600952115625" />
+    <state width="1151" height="98" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1600777138015" />
+    <state width="1070" height="135" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1600979142811" />
+    <state width="1070" height="135" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1600979153931" />
+    <state width="1070" height="136" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1600891383948" />
+    <state width="1070" height="136" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1600890647589" />
+    <state width="1070" height="136" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1600892594524" />
+    <state width="1070" height="136" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1600891744807" />
+    <state width="1070" height="135" key="GridCell.Tab.0.right" timestamp="1600979153932">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="1070" height="135" key="GridCell.Tab.0.right/0.23.1440.790@0.23.1440.790" timestamp="1600950565911" />
+    <state width="1070" height="135" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1600952097457" />
+    <state width="1070" height="135" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600952115627" />
+    <state width="1151" height="98" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1600777138016" />
+    <state width="1070" height="135" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1600979142812" />
+    <state width="1070" height="135" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1600979153932" />
+    <state width="1070" height="136" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1600891383949" />
+    <state width="1070" height="136" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1600890647591" />
+    <state width="1070" height="136" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1600892594525" />
+    <state width="1070" height="136" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1600891744808" />
+    <state x="399" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1600950034215">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="399" y="277" key="com.intellij.ide.util.TipDialog/0.23.1440.790@0.23.1440.790" timestamp="1600950034215" />
+    <state x="399" y="278" key="com.intellij.ide.util.TipDialog/0.23.1440.793@0.23.1440.793" timestamp="1600537551083" />
+    <state x="399" y="279" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1600778516166" />
+    <state x="399" y="280" key="com.intellij.ide.util.TipDialog/0.23.1440.800@0.23.1440.800" timestamp="1600773732264" />
+    <state x="399" y="285" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1600889269525" />
+    <state x="316" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1600760506337">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="316" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1600760506337" />
+  </component>
+</project>
