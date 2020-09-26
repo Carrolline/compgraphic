@@ -152,8 +152,6 @@ def task3_1_def():
             y = 3 * 0.01 * 26 * math.sin(-x)
             Point(x * 50 + 100, y * 50 + 100).draw(window3_1)
             points1.append(tuple([x * 50 + 100, y * 50 + 100]))
-            #y2 = 3 * 0.01 * 26 * math.sin(-(x+1))
-            #Line(Point(x * 50 + 100, y * 50 + 100), Point((-(x+1)) * 50 + 100, y2 * 50 + 100)).draw(window3)
         for i in range(1, len(points1)):
             Line(Point(points1[i-1][0], points1[i-1][1]), Point(points1[i][0], points1[i][1])).draw(window3_1)
         print(points1)
@@ -192,14 +190,17 @@ task1_button = Button(root, text="Завдання 1", command=task1_def)
 task2_1_button = Button(root, text="Завдання 2.1", command=task2_1_def)
 task2_2_button = Button(root, text="Завдання 2.2", command=task2_2_def)
 task3_1_button = Button(root, text="Завдання 3.1", command=task3_1_def)
+task3_2_button = Button(root, text="Завдання 3.1", command=task3_2_def)
 
 window1 = None
 window2_1 = None
 window2_2 = None
-window3 = None
+window3_1 = None
+window3_2 = None
 
 task1_button.pack()
 task2_1_button.pack()
 task2_2_button.pack()
 task3_1_button.pack()
+task3_2_button.pack()
 root.mainloop()
