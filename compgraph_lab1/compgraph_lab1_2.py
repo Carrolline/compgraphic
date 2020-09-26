@@ -135,27 +135,57 @@ def task2_2_def():
 
 
 def task3_1_def():
-    global window3
-    if window3 == None:
-        window3 = GraphWin("Вікно для графіки", 700, 200)
-        e = Canvas(window3, width=700, height=200, bg='white')
+    global window3_1
+    if window3_1 == None:
+        window3_1 = GraphWin("Вікно для графіки", 700, 200)
+        Line(Point(100, 100), Point(697, 100)).draw(window3_1)
+        Line(Point(415, 200), Point(415, 3)).draw(window3_1)
+        # arrow right
+        Line(Point(697, 100), Point(687, 90)).draw(window3_1)
+        Line(Point(697, 100), Point(687, 110)).draw(window3_1)
+        # arrow top
+        Line(Point(415, 3), Point(425, 13)).draw(window3_1)
+        Line(Point(415, 3), Point(405, 13)).draw(window3_1)
         a = 26
         points1 = []
-        for x in range(500):
+        for x in range(100):
             y = 3 * 0.01 * 26 * math.sin(-x)
+            Point(x * 50 + 100, y * 50 + 100).draw(window3_1)
             points1.append(tuple([x * 50 + 100, y * 50 + 100]))
-        e.create_line(points1, fill="red", smooth=1, width=3)
-
-        a = 26
-        points2 = []
-        for x in range(500):
-            y = 3 * 0.01 * 26 * math.cos(-x)
-            points2.append(tuple([x * 50 + 100, y * 50 + 100]))
-        e.create_line(points2, fill="lime", smooth=1, width=3)
-
+            #y2 = 3 * 0.01 * 26 * math.sin(-(x+1))
+            #Line(Point(x * 50 + 100, y * 50 + 100), Point((-(x+1)) * 50 + 100, y2 * 50 + 100)).draw(window3)
+        for i in range(1, len(points1)):
+            Line(Point(points1[i-1][0], points1[i-1][1]), Point(points1[i][0], points1[i][1])).draw(window3_1)
+        print(points1)
     else:
-        window3.destroy()
-        window3 = None
+        window3_1.destroy()
+        window3_1 = None
+
+
+def task3_2_def():
+    global window3_2
+    if window3_2 == None:
+        window3_2 = GraphWin("Вікно для графіки", 700, 200)
+        Line(Point(100, 100), Point(697, 100)).draw(window3_2)
+        Line(Point(415, 200), Point(415, 3)).draw(window3_2)
+        # arrow right
+        Line(Point(697, 100), Point(687, 90)).draw(window3_2)
+        Line(Point(697, 100), Point(687, 110)).draw(window3_2)
+        # arrow top
+        Line(Point(415, 3), Point(425, 13)).draw(window3_2)
+        Line(Point(415, 3), Point(405, 13)).draw(window3_2)
+        a = 26
+        points1 = []
+        for x in range(100):
+            y = 3 * 0.01 * 26 * math.cos(x)
+            Point(x * 50 + 100, -y * 50 + 100).draw(window3_2)
+            points1.append(tuple([x * 50 + 100, -y * 50 + 100]))
+        for i in range(1, len(points1)):
+            Line(Point(points1[i-1][0], points1[i-1][1]), Point(points1[i][0], points1[i][1])).draw(window3_2)
+        print(points1)
+    else:
+        window3_2.destroy()
+        window3_2 = None
 
 
 task1_button = Button(root, text="Завдання 1", command=task1_def)
