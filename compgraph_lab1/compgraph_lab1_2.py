@@ -138,6 +138,8 @@ def task3_1_def():
     global window3_1
     if window3_1 == None:
         window3_1 = GraphWin("Вікно для графіки", 700, 200)
+        Text(Point(680, 90), "X").draw(window3_1)
+        Text(Point(425, 20), "Y").draw(window3_1)
         Line(Point(100, 100), Point(697, 100)).draw(window3_1)
         Line(Point(415, 200), Point(415, 3)).draw(window3_1)
         # arrow right
@@ -173,6 +175,8 @@ def task3_2_def():
     global window3_2
     if window3_2 == None:
         window3_2 = GraphWin("Вікно для графіки", 700, 200)
+        Text(Point(680, 90), "X").draw(window3_2)
+        Text(Point(425, 20), "Y").draw(window3_2)
         Line(Point(100, 100), Point(697, 100)).draw(window3_2)
         Line(Point(415, 200), Point(415, 3)).draw(window3_2)
         # arrow right
@@ -208,6 +212,8 @@ def task3_3_def():
     global window3_3
     if window3_3 == None:
         window3_3 = GraphWin("Вікно для графіки", 700, 200)
+        Text(Point(680, 90), "X").draw(window3_3)
+        Text(Point(425, 20), "Y").draw(window3_3)
         Line(Point(100, 100), Point(697, 100)).draw(window3_3)
         Line(Point(415, 200), Point(415, 3)).draw(window3_3)
         # arrow right
@@ -291,6 +297,8 @@ def task3_4_def():
     global window3_4
     if window3_4 == None:
         window3_4 = GraphWin("Вікно для графіки", 700, 200)
+        Text(Point(680, 90), "X").draw(window3_4)
+        Text(Point(425, 20), "Y").draw(window3_4)
         Line(Point(100, 100), Point(697, 100)).draw(window3_4)
         Line(Point(415, 200), Point(415, 3)).draw(window3_4)
         # arrow right
