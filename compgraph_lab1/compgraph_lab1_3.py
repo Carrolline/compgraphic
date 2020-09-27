@@ -59,33 +59,56 @@ def task2_2_def():
 
 
 def task3_1_def():
+    ax = plt.gca()
+    ax.spines['left'].set_position('center')
+    ax.spines['bottom'].set_position('center')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.xaxis.set_label_coords(0.99, 0.48)
+    ax.yaxis.set_label_coords(0.55, 0.99)
     # Независимая (x) и зависимая (y) переменные
     plt.xlabel("x", fontsize=14)  # ось абсцисс
     plt.ylabel("y", fontsize=14)  # ось ординат
     x = np.linspace(-2*np.pi, 2*np.pi, 100)
-    y = np.sin(x)
+    y = 3 * 0.01 * 26 * np.sin(x)
 
     plt.plot(x, y, color="green")
     plt.show()
 
 
 def task3_2_def():
-    # Независимая (x) и зависимая (y) переменные
+    ax = plt.gca()
+    ax.spines['left'].set_position('center')
+    ax.spines['bottom'].set_position('center')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.xaxis.set_label_coords(0.99, 0.48)
+    ax.yaxis.set_label_coords(0.55, 0.99)
 
     plt.xlabel("x", fontsize=14)  # ось абсцисс
     plt.ylabel("y", fontsize=14)  # ось ординат
 
     x = np.linspace(-2*np.pi, 2*np.pi, 100)
-    y = np.cos(x)
+    y = 3 * 0.01 * 26 * np.cos(x)
 
     plt.plot(x, y)
     plt.show()
 
 
 def task3_3_def():
+    ax = plt.gca()
+    ax.spines['left'].set_position('center')
+    ax.spines['bottom'].set_position('center')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.xaxis.set_label_coords(0.99, 0.48)
+    ax.yaxis.set_label_coords(0.55, 0.99)
+
+    plt.xlabel("x", fontsize=14)  # ось абсцисс
+    plt.ylabel("y", fontsize=14)  # ось ординат
     # Choose evenly spaced x intervals
     x = np.linspace(-2*np.pi, 2*np.pi, 666)
-    y = np.tan(x)
+    y = 3 * 0.01 * 26 * np.tan(x)
     y[np.abs(np.cos(x)) <= np.abs(np.sin(x[1]-x[0]))] = np.nan
     plt.plot(x, y, color="magenta")
     plt.ylim(-3, 3)
@@ -93,9 +116,16 @@ def task3_3_def():
 
 
 def task3_4_def():
+    ax = plt.gca()
+    ax.spines['left'].set_position('center')
+    ax.spines['bottom'].set_position('center')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.xaxis.set_label_coords(0.99, 0.48)
+    ax.yaxis.set_label_coords(0.55, 0.99)
     # Choose evenly spaced x intervals
     x3 = np.linspace(-2*np.pi, 2*np.pi, 666)
-    y3 = np.tan(x3)
+    y3 = 3 * 0.01 * 26 * np.tan(x3)
     y3[np.abs(np.cos(x3)) <= np.abs(np.sin(x3[1]-x3[0]))] = np.nan
     plt.plot(x3, y3, color="magenta")
     plt.ylim(-3, 3)
@@ -106,12 +136,12 @@ def task3_4_def():
     plt.ylabel("y", fontsize=14)  # ось ординат
 
     x1 = np.linspace(-2 * np.pi, 2 * np.pi, 100)
-    y1 = np.cos(x1)
+    y1 = 3 * 0.01 * 26 * np.cos(x1)
 
     plt.plot(x1, y1)
 
     x2 = np.linspace(-2 * np.pi, 2 * np.pi, 100)
-    y2 = np.sin(x2)
+    y2 = 3 * 0.01 * 26 * np.sin(x2)
 
     plt.plot(x2, y2, color="green")
 
